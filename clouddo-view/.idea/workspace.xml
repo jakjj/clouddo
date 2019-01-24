@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f32dbb32-8f2a-48b7-aea8-aacb97d86313" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clouddo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clouddo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clouddo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/lcg0124-clouddo-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_alibaba_fastjson_1_2_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_alibaba_fastjson_1_2_55.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_buffer_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_codec_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_common_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_resolver_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_transport_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mapstruct_mapstruct_jdk8_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mapstruct_mapstruct_jdk8_1_2_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mapstruct_mapstruct_processor_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_springframework_spring_websocket_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/clouddo.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/ClouddoAdminApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/config/AuthConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/constants/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/DeptController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/RoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/DeptDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/MenuDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/RoleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/RoleMenuDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/TokenDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/TokenPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dao/UserRoleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/DeptDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/MenuDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/RoleDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/RoleMenuDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/TokenDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/UserDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/domain/UserRoleDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dto/UserRoleDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/dto/do2dto/UserConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/rpc/TestRpc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/DeptService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/TokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/impl/DeptServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/impl/MenuServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/impl/TokenServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/task/DemoTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/utils/BuildTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/utils/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/utils/MD5Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/utils/TokenUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/vo/UserToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/java/com/bootdo/clouddoadmin/vo/UserVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/mapper/DeptMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/mapper/RoleMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/mapper/UserRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/main/resources/spring-ehcache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/src/test/java/com/bootdo/clouddoadmin/ClouddoAdminApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/ClouddoAdminApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/config/AuthConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/config/WebSocketConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/config/WebSocketConfig$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/config/WebSocketConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/constants/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/BaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/DeptController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/RoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/DeptDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/MenuDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/RoleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/RoleMenuDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/TokenDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/TokenPrinciple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dao/UserRoleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/DeptDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/MenuDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/RoleDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/RoleMenuDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/TokenDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/UserDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/domain/UserRoleDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dto/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dto/UserRoleDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dto/do2dto/UserConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/dto/do2dto/UserConvertImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/rpc/TestRpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/DeptService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/RoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/TokenService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/impl/DeptServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/impl/MenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/impl/RoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/impl/TokenServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/utils/BuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/utils/MD5Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/utils/TokenUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/com/bootdo/clouddoadmin/vo/UserVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/mapper/DeptMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/mapper/RoleMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/mapper/UserRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/classes/spring-ehcache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-admin/target/generated-sources/annotations/com/bootdo/clouddoadmin/dto/do2dto/UserConvertImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/java/com/bootdo/clouddobase/ClouddoBaseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/java/com/bootdo/clouddobase/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/java/com/bootdo/clouddobase/dao/LogDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/java/com/bootdo/clouddobase/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/java/com/bootdo/clouddobase/service/impl/LogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/resources/mapper/LogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/main/resources/mybatis/LogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/src/test/java/com/bootdo/clouddobase/ClouddoLogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/com/bootdo/clouddobase/ClouddoBaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/com/bootdo/clouddobase/controller/LogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/com/bootdo/clouddobase/dao/LogDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/com/bootdo/clouddobase/service/LogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/com/bootdo/clouddobase/service/impl/LogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/mapper/LogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/classes/mybatis/LogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-base/target/test-classes/com/bootdo/clouddobase/ClouddoLogApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/ClouddoCmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/config/AuthConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/controller/ContentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/controller/FileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/dao/FileDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/domain/FileDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/dto/FileDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/dto/convert/FileConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/service/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/java/com/bootdo/clouddocms/service/impl/FileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/src/main/resources/mapper/FileMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/ClouddoCmsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/config/AuthConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/controller/FileController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/controller/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/dao/FileDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/domain/FileDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/dto/FileDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/dto/convert/FileConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/service/FileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/com/bootdo/clouddocms/service/impl/FileServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-cms/target/classes/mapper/FileMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/annotation/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/aspect/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/aspect/WebLogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/config/AsyncConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/constants/CommonConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/context/FilterContextHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/BTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/LogDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/LoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/LoginUserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/MenuDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/RouterDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/UserToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/dto/do2dto/MenuConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/exception/CommonExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/filter/ContextFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/intercepter/AuthIntercepter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/intercepter/FeignIntercepter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/service/LogRpcService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/HttpContextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/HttpServletUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/IPUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/JSONUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/PageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/Query.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/main/java/com/bootdo/clouddocommon/utils/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/src/test/java/com/bootdo/clouddocommon/ClouddoCommonApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/annotation/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/aspect/LogAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/aspect/WebLogAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/config/AsyncConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/constants/CommonConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/context/FilterContextHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/BTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/LogDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/LoginDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/LoginUserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/MenuDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/RouterDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/UserToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/dto/do2dto/MenuConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/exception/CommonExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/intercepter/AuthIntercepter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/intercepter/FeignIntercepter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/service/LogRpcService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/HttpContextUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/HttpServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/IPUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/JSONUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/JwtUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/PageUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/Query.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/classes/com/bootdo/clouddocommon/utils/StringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-common/target/test-classes/com/bootdo/clouddocommon/ClouddoCommonApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/src/main/java/com/bootdo/clouddoserver/ClouddoServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/src/test/java/com/bootdo/clouddoserver/ClouddoServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/target/classes/com/bootdo/clouddoserver/ClouddoServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-server/target/test-classes/com/bootdo/clouddoserver/ClouddoServerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/src/main/java/com/bootdo/clouddozuul/ClouddoZuulApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/src/main/java/com/bootdo/clouddozuul/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/src/main/java/com/bootdo/clouddozuul/filter/AccessFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/src/main/java/com/bootdo/clouddozuul/prc/admin/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/src/test/java/com/bootdo/clouddozuul/ClouddoZuulApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/target/classes/com/bootdo/clouddozuul/ClouddoZuulApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/target/classes/com/bootdo/clouddozuul/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/target/classes/com/bootdo/clouddozuul/filter/AccessFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/target/classes/com/bootdo/clouddozuul/prc/admin/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/clouddo-zuul/target/test-classes/com/bootdo/clouddozuul/ClouddoZuulApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-master/clouddo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/.idea/lcg0124-clouddo-view-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/dev-client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/dev-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/css/app.7d2ea8116390210e333b8fcdc286441c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/css/app.7d2ea8116390210e333b8fcdc286441c.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/defaultCover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/fonts/fontawesome-webfont.674f50d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/fonts/fontawesome-webfont.af7ae50.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/fonts/fontawesome-webfont.b06871f.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/fonts/fontawesome-webfont.fee66e7.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/img/fontawesome-webfont.acf3dcb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/img/iconfont.5c9ad9e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/0.38c46210ebd37e0d52f7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/0.38c46210ebd37e0d52f7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/app.2d90cd8dadece89e18a6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/app.2d90cd8dadece89e18a6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/manifest.2cb3b9278aafcb85e218.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/manifest.2cb3b9278aafcb85e218.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/vendor.e60d68f7c06524d6164e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/dist/static/js/vendor.e60d68f7c06524d6164e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/api/api_file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/api/api_log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/api/api_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/api/api_role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/api/api_user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/fonts/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/images/index1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/images/index2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/logotxt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/assets/styles/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/bus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/common/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/Dashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/TreeTable/eval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/TreeTable/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/TreeTable/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/content/blog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/file/List.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/log/List.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/menu/list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/quill/qeditor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/role/list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/user/changepwd.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/user/list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/user/profile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/welcome/bootdo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/welcome/home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/components/welcome/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/src/vuex/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lcg0124-clouddo-view-master/clouddo-view/static/defaultCover.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="47" />
+    <option name="width" value="1456" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f32dbb32-8f2a-48b7-aea8-aacb97d86313" name="Default Changelist" comment="" />
+      <created>1548294589828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548294589828</updated>
+      <workItem from="1548294591291" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
